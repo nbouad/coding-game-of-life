@@ -1,0 +1,27 @@
+{
+  "name": "game_of_life",
+  "version": "0.0.0",
+  "description": "Jeu de la vie en Node JS",
+  "main": "./server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbouad/game_of_life.git"
+  },
+  "keywords": [
+    "game",
+    "life"
+  ],
+  "author": "Najet B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbouad/game_of_life/issues"
+  },
+  "homepage": "https://github.com/nbouad/game_of_life#readme",
+  "dependencies": {
+    "express": "~4.12.4",
+    "jasmine-node": "^1.14.5"
+  }
+}
