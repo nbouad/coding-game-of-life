@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbouad/game_of_life.git"
+    "url": "git+https://github.com/nbouad/coding-game-of-life.git"
   },
   "keywords": [
     "game",
@@ -17,9 +17,9 @@
   "author": "Najet B.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nbouad/game_of_life/issues"
+    "url": "https://github.com/nbouad/coding-game-of-life.git/issues"
   },
-  "homepage": "https://github.com/nbouad/game_of_life#readme",
+  "homepage": "https://github.com/nbouad/coding-game-of-life.git#readme",
   "dependencies": {
     "express": "~4.12.4",
     "jasmine-node": "^1.14.5"
