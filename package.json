@@ -4,7 +4,7 @@
   "description": "Jeu de la vie en Node JS",
   "main": "./server.js",
   "scripts": {
-    "test": "./node_modules/.bin/jasmine-node spec"
+    "test": "./node_modules/.bin/jasmine-node test"
   },
   "repository": {
     "type": "git",
